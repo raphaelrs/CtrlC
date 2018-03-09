@@ -1,0 +1,33 @@
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\bin\Release\Servidor.exe.config
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\bin\Release\Servidor.exe
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\bin\Release\Servidor.pdb
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\bin\Release\Servico.dll
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\bin\Release\Servico.pdb
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\obj\Release\Servidor.csprojResolveAssemblyReference.cache
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\obj\Release\MainWindow.baml
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\obj\Release\MainWindow.g.cs
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\obj\Release\App.g.cs
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\obj\Release\Servidor_MarkupCompile.cache
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\obj\Release\Servidor.g.resources
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\obj\Release\Servidor.Properties.Resources.resources
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\obj\Release\Servidor.csproj.GenerateResource.Cache
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\obj\Release\Servidor.exe
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servidor\obj\Release\Servidor.pdb
+T:\TISN-3\ProjetosRaphael\SysTrayApp\Servidor\bin\Release\Servidor.exe.config
+T:\TISN-3\ProjetosRaphael\SysTrayApp\Servidor\obj\Release\Servidor.exe
+T:\TISN-3\ProjetosRaphael\SysTrayApp\Servidor\obj\Release\Servidor.pdb
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\bin\Release\Servidor.exe.config
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\bin\Release\Servidor.exe
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\bin\Release\Servidor.pdb
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\bin\Release\Servico.dll
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\bin\Release\Servico.pdb
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\obj\Release\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\obj\Release\MainWindow.baml
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\obj\Release\MainWindow.g.cs
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\obj\Release\App.g.cs
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\obj\Release\Servidor_MarkupCompile.cache
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\obj\Release\Servidor.g.resources
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\obj\Release\Servidor.Properties.Resources.resources
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\obj\Release\Servidor.csproj.GenerateResource.Cache
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\obj\Release\Servidor.exe
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servidor\obj\Release\Servidor.pdb

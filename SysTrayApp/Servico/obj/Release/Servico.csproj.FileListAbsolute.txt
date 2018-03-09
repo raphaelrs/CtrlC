@@ -1,0 +1,8 @@
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servico\bin\Release\Servico.dll
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servico\bin\Release\Servico.pdb
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servico\obj\Release\Servico.dll
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servico\obj\Release\Servico.pdb
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servico\bin\Release\Servico.dll
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servico\bin\Release\Servico.pdb
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servico\obj\Release\Servico.dll
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servico\obj\Release\Servico.pdb

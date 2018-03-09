@@ -1,0 +1,16 @@
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servico\bin\Debug\Servico.dll
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servico\bin\Debug\Servico.pdb
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servico\obj\Debug\Servico.dll
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servico\obj\Debug\Servico.pdb
+D:\Users\t072911934\Documents\Visual Studio 2012\Projects\SysTrayApp\Servico\obj\Debug\Servico.csprojResolveAssemblyReference.cache
+T:\TISN-3\ProjetosRaphael\SysTrayApp\Servico\bin\Debug\Servico.dll
+T:\TISN-3\ProjetosRaphael\SysTrayApp\Servico\bin\Debug\Servico.pdb
+T:\TISN-3\ProjetosRaphael\SysTrayApp\Servico\obj\Debug\Servico.csprojResolveAssemblyReference.cache
+T:\TISN-3\ProjetosRaphael\SysTrayApp\Servico\obj\Debug\Servico.dll
+T:\TISN-3\ProjetosRaphael\SysTrayApp\Servico\obj\Debug\Servico.pdb
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servico\bin\Debug\Servico.dll
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servico\bin\Debug\Servico.pdb
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servico\obj\Debug\Servico.dll
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servico\obj\Debug\Servico.pdb
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servico\obj\Debug\Servico.csprojResolveAssemblyReference.cache
+C:\Users\rribeiro\Downloads\ProjetosRaphael\ProjetosRaphael\SysTrayApp\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
